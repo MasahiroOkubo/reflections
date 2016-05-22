@@ -1,0 +1,17 @@
+git log
+git diff before after
+git status
+git branch
+git branch new-name
+git checkout new-name
+
+
+git init
+git clone URL
+
+git add .
+git commit -m 'some message'
+
+git checkout -b new-branch
+
+
